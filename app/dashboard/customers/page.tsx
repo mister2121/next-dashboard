@@ -1,3 +1,5 @@
-export default function Page() {
+const Page: React.FC = () => {
     return <p>Customers Page</p>;
-}
+};
+
+export default Page;
